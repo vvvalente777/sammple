@@ -1,0 +1,28 @@
+.hj {
+  height: 480px;
+  width: 560px;
+  float: left;
+  border: ridge 4px blue;
+}
+.amanha {
+  border: ridge 5px red;
+  float: right;
+  height: 380px;
+  margin-left: 5px;
+}
+.gifzada {
+  border: groove 1em red;
+  border-radius: 2em;
+  float: left;
+  margin-top:15px;
+  margin-right: 7px;
+}
+.amanhaulas {
+  height: 100px;
+  width: 100px;
+}
+
+.hoje {
+  height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>IOGURTÁ</title>
+<style>
+  .agora {
+    text-align: center;
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1b/1bb540e84a0ff4925668f7bb748cf705c080a059_full.jpg");
+    color: white;
+    height: 720px;
+  }
+  .puppey {
+     text-align: center;
+    font-family: "Courier New";
+    margin-top: 3px;
+    margin-left: 10px;
+    background-color: yellow;
+    border: 1px outset black;
+  }
+  .dendis {
+    text-align: center;
+    font-family: "Courier New";
+    margin-top: 3px;
+    margin-left: 10px;
+    background-color: orange;
+    border: 1px outset black;
+    }
+ .dendi {
+  text-align: center;
+  font-family: "Impact";
+    color: rgba(0, 0, 0, 0.8);
+   font-size: 24px;
+   border: 5px outset rgba(150, 0, 0, 0.6);
+   background-color: rgba(0, 0, 150, 0.5);
+}
+  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  </head>
+
+  <body>
+ <div class="dendi">
+  <h1>Empresa local desafia os problemas atuais e continua a crescer no mercado há mais de dois anos </h1>
+  <p>Através da administração consciente e ampla noção de mercado jovens atribuem grande valor à marca.</p>
+  </div>
+<div class="dendis">  
+<figure>
+  <img class="hj" src="https://jardimdomundo.com/wp-content/uploads/2019/04/collage1.jpg"
+  alt="iogurte envasado">
+  <h5> <br>	&raquo; &raquo; Iogurtes são produzidos e envasados de forma caseira e somente com produtos naturais, de forma sustentável para você e sua família.&laquo; &laquo;</h5><br>
+  </figure>   </div><br>
+  <div class="puppey">  
+  &raquo; &raquo; Sem precisar sair da sua casa você recebe seu iogurte tranquilamente onde estiver.&laquo; &laquo;<br>
+  </div><br>
+  <div class="dendis">  
+  &raquo; &raquo; Através da produção responsável nós conseguimos reduzir a produção de lixo para praticamente 0.&laquo; &laquo;<br>
+  </div><br>
+  <div class="puppey">&raquo; &raquo; Sim meu nome é Dendi.&laquo; &laquo;<br></div><br>
+  <div class="dendis">&raquo; &raquo; Sim i fuck Mendi.&laquo; &laquo;<br></div><br>
+<div class="puppey">    &raquo; &raquo; Come cogu como cogu como cogu come cogu até o final&laquo; &laquo; <br>
+  </div><br>
+    <div class="dendis">&raquo; &raquo; Come cogu como cogu como cogu come cogu até o final&laquo; &laquo; <br>
+  </div><br>
+    <div class="puppey">&raquo; &raquo; Come cogu como cogu como cogu come cogu até o final&laquo; &laquo; <br>
+  </div><br>
+    <div class="dendis">&raquo; &raquo; Come cogu como cogu como cogu come cogUUUUUUUUUUU&laquo; &laquo; <br>
+  </div><br>
+  <img src="https://i.pinimg.com/564x/80/1a/0f/801a0fb9b495193718fbb799aef28f35.jpg"
+       class="amanha"
+       alt="iogurte frutas naturais">
+    <img src="https://media1.giphy.com/media/MdeSslU80bVsTtWxEh/giphy.gif?cid=ecf05e47xl5s4icxl8bhew7vlnyzheaqj6hczw9hm97tycyf&rid=giphy.gif"
+         class="gifzada"
+         alt="carregamento">
+    <div class="agora">
+
+  <h3>Agora quero ver essa merda não alinhar filha da puta</h3>
+      <h5>ALINHOU PORRAAAAAAAAAAA</h5>
+      <h1>OLHA O PAPAI AÍ NO FUNDO HEHEHEHEHEHHEHE</h1>
+      <h2> Através de nossa parceria nós conseguimos trazer mais nutrientes para você turbinar seu iogurte!</h2>
+      <h2> Peça já um pacote de Gaiatri produtos junto com seu iogurte, ele contém sei lá granola mel e tal então pede ae fdp</h2>
+   
+  </div>
+    <p>hello my name is waldo where the FLYING FFFuck am i</p>
+        <a href="https://www.instagram.com/iogurteiogurta/"><img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg"
+                                                             class="amanhaulas"
+                                                             alt="insta logo">
+       
+       <a href="https://linktr.ee/iogurta"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"
+                                                class="hoje"
+                                                alt="linkedin logo">
+</body>
+</html>
